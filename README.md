@@ -9,6 +9,15 @@ A full-stack expense tracker built with **React + Material UI**, **FastAPI** and
 - Responsive layout with MUI Grid breakpoints
 - Input validation with Pydantic (e.g. amount must be > 0)
 
+## Screenshots
+**Desktop**
+
+![SpendWise on desktop](screenshots/desktop.png)
+
+**Mobile**
+
+<img src="screenshots/mobile.png" alt="SpendWise on mobile" width="320" />
+
 ## Tech Stack
 | Layer    | Tech                              |
 |----------|-----------------------------------|
