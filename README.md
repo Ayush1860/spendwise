@@ -69,7 +69,3 @@ spendwise/
             └── SummaryCard.jsx
 ```
 
-## Possible improvements
-- User authentication (JWT)
-- Monthly charts
-- Deploy frontend on AWS S3 + CloudFront, backend on AWS Lambda
