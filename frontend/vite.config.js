@@ -3,6 +3,4 @@ import react from "@vitejs/plugin-react";
 
 export default defineConfig({
   plugins: [react()],
-  // Served from https://<user>.github.io/spendwise/ on GitHub Pages
-  base: process.env.GITHUB_PAGES ? "/spendwise/" : "/",
 });
